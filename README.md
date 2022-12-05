@@ -2,4 +2,4 @@
 
 Solutions in python
 
-[My 2020 year solutions in Rust](https://https://github.com/GameRuiner/adventofcode)
+[My 2020 year solutions in Rust](https://github.com/GameRuiner/adventofcode)
