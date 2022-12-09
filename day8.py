@@ -1,5 +1,5 @@
-f = open("input8.txt", "r")
-# f = open("input8test.txt", "r")
+f = open("inputs/input8.txt", "r")
+# f = open("inputs/input8test.txt", "r")
 
 forest = []
 for line in f:

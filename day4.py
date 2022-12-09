@@ -4,7 +4,7 @@ def getSet(elf):
 
 # --- Part 1 ---
 
-f = open("input4.txt", "r")
+f = open("inputs/input4.txt", "r")
 result = 0
 for x in f:
     (elf1, elf2) = x.strip().split(",")
@@ -18,7 +18,7 @@ print(result)
 
 # --- Part 2 ---
 
-f = open("input4.txt", "r")
+f = open("inputs/input4.txt", "r")
 result = 0
 for x in f:
     (elf1, elf2) = x.strip().split(",")

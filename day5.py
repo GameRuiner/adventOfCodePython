@@ -1,6 +1,6 @@
 # --- Part 1,2 ---
 
-f = open("input5.txt", "r")
+f = open("inputs/input5.txt", "r")
 queues = []
 for x in f:
     if len(queues) == 0:

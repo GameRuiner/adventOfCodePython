@@ -1,6 +1,6 @@
 # --- Part 1,2 ---
 
-f = open("input6.txt", "r")
+f = open("inputs/input6.txt", "r")
 for line in f:
     marker = []
     index = 1

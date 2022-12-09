@@ -9,7 +9,7 @@ for index, letter in enumerate(string.ascii_uppercase):
 
 # --- Part 1 ---
 
-f = open("input3.txt", "r")
+f = open("inputs/input3.txt", "r")
 result = 0
 for x in f:
     rucksack = list(x.strip())
@@ -26,7 +26,7 @@ print(result)
 
 # -- Part 2 ---
 
-f = open("input3.txt", "r")
+f = open("inputs/input3.txt", "r")
 result = 0
 groupCounter = 0
 group = []

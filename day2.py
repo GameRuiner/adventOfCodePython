@@ -1,4 +1,4 @@
-f = open("input2.txt", "r")
+f = open("inputs/input2.txt", "r")
 
 # --- Part 1 ---
 
@@ -74,7 +74,7 @@ points = {
     'C': 3
 }
 
-f = open("input2.txt", "r")
+f = open("inputs/input2.txt", "r")
 
 score = 0
 for x in f:

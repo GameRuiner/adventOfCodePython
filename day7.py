@@ -1,4 +1,4 @@
-f = open("input7.txt", "r")
+f = open("inputs/input7.txt", "r")
 fileSystem = {'size': None, 'content': {'/': {'size': None, 'content': {}}}}
 currentPass = []
 

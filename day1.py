@@ -1,5 +1,5 @@
 # Part one
-f = open("input1.txt", "r")
+f = open("inputs/input1.txt", "r")
 maxCalories = 0
 currentCalories = 0
 for x in f:
@@ -16,7 +16,7 @@ print(maxCalories)
 
 # Part two
 
-f = open("input1.txt", "r")
+f = open("inputs/input1.txt", "r")
 maxCalories = [0,0,0]
 minValue = 0
 minValueIndex = 0
