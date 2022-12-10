@@ -73,3 +73,5 @@ for row in range(len(forest)):
     
 # print(visible)
 print(maxScore)
+
+f.close()

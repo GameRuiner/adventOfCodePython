@@ -62,4 +62,6 @@ for move in f:
             if currentPos == len(poss) - 1:
                 positions2.add(poss[currentPos])
 
+f.close()
+
 print(len(positions2))
